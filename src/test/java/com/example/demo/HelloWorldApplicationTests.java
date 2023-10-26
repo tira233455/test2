@@ -10,4 +10,4 @@ class HelloWorldApplicationTests {
 	void contextLoads() {
 	}
 
-}
+
